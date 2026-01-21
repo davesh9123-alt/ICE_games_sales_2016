@@ -1,2 +1,2 @@
 # ICE_games_sales_2016
-Analisis historico de las ventas de videojuegos desde 1980 hasta 2016 segun la plataforma de ventas Ice.
+Este análisis se centra en los factores que influyen en el éxito de los videojuegos vendidos en la tienda online de ICE. Utilizando datos de 2016 sobre reseñas de usuarios y expertos, géneros, plataformas y ventas históricas, el objetivo es identificar patrones que predigan qué juegos tendrán un buen rendimiento en 2017. El proyecto incluye la preparación de datos, el análisis exploratorio de datos y la creación de modelos para comprender la dinámica de la industria del videojuego, orientar las decisiones de inversión y las estrategias publicitarias para optimizar las promociones de videojuegos.
