@@ -28,3 +28,10 @@ Este análisis se centra en los factores que influyen en el éxito de los videoj
 Historicamente los generos mas populares (aquellos que suelen ser mas rentables) son los generos de Accion, Disparos y Deportes. Este tendencia se mantiene a lo largo de varias generaciones de consolas.
 
 <img width="873" height="604" alt="genre_top_games" src="https://github.com/user-attachments/assets/b2d4de8a-e35c-4228-aacf-bdc16c4c21a1" />
+
+
+## Conclusiones y recomendaciones
+
+Para esta parte del analisis tomamos datos de plataformas mas recientes y las dividimos por periodos. En la industria de videojuegos se le llaman generaciones. Tomamos la generacion de Xbox 360 y PS3 y calculamos cuales son los juegos mas vendidos y que generos son los mas rentables. Y luego hicimos lo mismo pero con la generacion siguiente que son las pltaformas PS4 y Xbox One. Encontramos que los juegos que son consistentemente mas populares a lo largo de estos periodos, son los juegos de Accion, Deportes y Disparos, seguidos por los juegos de rol y miscelanea. Los juegos menos populares son aquellos de estrategia, simulacion y puzzles (acertijos).
+
+Claramente los videojuegos de acción, disparos y deportes generan mayores ventas de forma acumulativa, sin embargo, inundar el mercado con este tipo de videojuegos únicamente causaría una especie de agotamiento en los jugadores. Por ello a pesar de que sea contra intuitivo, es recomendable tener un mercado de géneros de videojuegos más variado, pues los videojuegos de otros géneros también generan ventas significativas y mantienen el balance en el mercado de videojuegos.
