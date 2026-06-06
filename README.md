@@ -23,7 +23,7 @@ Este análisis se centra en los factores que influyen en el éxito de los videoj
 - ¿Cuáles son los tipos de videojuegos más populares por región?
 
 
-## Resultados
+## Generos de videojuegos mas populares historicamente
 
 Historicamente los generos mas populares (aquellos que suelen ser mas rentables) son los generos de Accion, Disparos y Deportes. Este tendencia se mantiene a lo largo de varias generaciones de consolas.
 
